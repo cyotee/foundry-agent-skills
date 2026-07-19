@@ -1,0 +1,8 @@
+{
+  "name": "foundry-agent",
+  "description": "Foundry cast/anvil runtime for AI agents: RPC reads/writes, fork rehearsal, multi-step forge scripts, and safety gates",
+  "version": "0.1.0",
+  "author": {
+    "name": "cyotee"
+  }
+}
