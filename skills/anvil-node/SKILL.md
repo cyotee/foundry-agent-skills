@@ -5,6 +5,13 @@ description: Run local Ethereum nodes with Anvil. Use when setting up local deve
 
 # Anvil Local Node
 
+## Goal
+Agent-usable Foundry skill: see When to Use / overview above for skills/anvil-node/SKILL.md.
+
+## Inspect
+Read-only first: confirm chain id and addresses before writes.
+
+
 Anvil is Foundry's fast local Ethereum node for development and testing.
 
 ## When to Use

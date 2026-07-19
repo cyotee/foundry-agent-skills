@@ -5,6 +5,13 @@ description: Interact with EVM chains using Cast CLI. Use when querying blockcha
 
 # Cast Commands
 
+## Goal
+Agent-usable Foundry skill: see When to Use / overview above for skills/cast-commands/SKILL.md.
+
+## Inspect
+Read-only first: confirm chain id and addresses before writes.
+
+
 Cast is Foundry's command-line tool for interacting with EVM-compatible blockchains.
 
 ## When to Use

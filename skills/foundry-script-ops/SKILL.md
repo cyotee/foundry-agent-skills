@@ -8,6 +8,15 @@ description: >
 
 # Foundry script ops (agent multi-step)
 
+## Goal
+Run multi-step on-chain agent operations with `forge script` when sequential `cast send` is error-prone.
+
+## Inspect
+Confirm RPC/chain and env addresses before broadcast (see `foundry-agent-safety`). Review script source and env vars.
+
+## Dry-run
+Always run without `--broadcast` first and review traces.
+
 ## When to use
 
 - Approve + spend in one broadcast session

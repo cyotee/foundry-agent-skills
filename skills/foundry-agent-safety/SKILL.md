@@ -8,6 +8,13 @@ description: >
 
 # Foundry agent safety
 
+## Goal
+Agent-usable Foundry skill: see When to Use / overview above for skills/foundry-agent-safety/SKILL.md.
+
+## Inspect
+Read-only first: confirm chain id and addresses before writes.
+
+
 ## When to use
 
 - Before the first write on a session
