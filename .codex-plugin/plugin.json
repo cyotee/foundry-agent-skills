@@ -1,0 +1,25 @@
+{
+  "name": "foundry-agent",
+  "version": "0.1.0",
+  "description": "Foundry cast/anvil runtime for AI agents: RPC reads/writes, fork rehearsal, multi-step forge scripts, and safety gates",
+  "author": {
+    "name": "cyotee"
+  },
+  "keywords": [
+    "foundry",
+    "cast",
+    "forge",
+    "anvil",
+    "rpc",
+    "agent",
+    "evm"
+  ],
+  "skills": "./skills/",
+  "interface": {
+    "displayName": "foundry-agent",
+    "shortDescription": "Foundry cast/anvil runtime for AI agents: RPC reads/writes, fork rehearsal, multi-step forge scripts, and safety gates",
+    "longDescription": "Foundry cast/anvil runtime for AI agents: RPC reads/writes, fork rehearsal, multi-step forge scripts, and safety gates",
+    "category": "Development",
+    "developerName": "cyotee"
+  }
+}
